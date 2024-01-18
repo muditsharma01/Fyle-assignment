@@ -37,8 +37,4 @@ GitHub Repo Viewer is a web application assignment given by Fyle that allows use
 
 - [GitHub API](https://developer.github.com/v3/)
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to contribute, report issues, or suggest improvements!
