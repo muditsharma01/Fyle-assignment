@@ -7,7 +7,7 @@ GitHub Repo Viewer is a web application assignment given by Fyle that allows use
 ## How to Use
 
 1. **Online:**
-   - Visit the [GitHub Repo Viewer](#) website.
+   - Visit the [GitHub Repo Viewer](https://github-repo-viewer-fyle.netlify.app/) website.
    - Enter a valid GitHub username in the input field.
    - Choose the number of repositories to display per page from the dropdown.
    - Click the "Submit" button to view the user's details and repositories.
